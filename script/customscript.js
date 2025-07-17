@@ -1,7 +1,7 @@
 $(document).ready(function () {
   var options = {
     strings: [
-      "Happy Birthday, Oluwadarasimi! 🎉",
+      "Happy Birthday, Oluwa Nifemi! 🎉",
       "It's your day, smile and be happy!!..",
       "May your day be as beautiful, joyful, and amazing as you.",
       "May all your dreams come true today and always.",
